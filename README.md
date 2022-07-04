@@ -1,11 +1,7 @@
-# fresh project
+# Simple Bitcoin Price Checker built with Fresh Framework
 
-### Usage
-
-Start the project:
+This project uses a public api endpoint from Coindesk. You can run the project by using the following command:
 
 ```
 deno task start
 ```
-
-This will watch the project directory and restart as necessary.
